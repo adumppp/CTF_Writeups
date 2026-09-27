@@ -6,7 +6,7 @@ This repository contains my step-by-step CTF solutions, supporting screenshots, 
 
 | Event | Included challenges | Guide |
 | --- | ---: | --- |
-| PicoCTF | 5 | [Open the PicoCTF guide](pico-ctf/README.md) |
+| PicoCTF | 4 | [Open the PicoCTF guide](pico-ctf/README.md) |
 | Hack10 | 5 | [Open the Hack10 guide](hack10/README.md) |
 | NadiCTF | 7 | [Open the NadiCTF guide](nadi-ctf/README.md) |
 
@@ -20,7 +20,6 @@ Each guide keeps its screenshots in an `assets` folder. The source Word document
 - Log Hunt
 - Hidden in Plain Sight
 - Flag in Flame
-- Corrupted File
 
 ### Hack10
 
